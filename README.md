@@ -1,11 +1,11 @@
-# 💫 About Me:
+#Hi There I am Darsh Chokhani :
 I am currently in higer-secondary <br>I am a Tech Enthusiast<br>I am currently learning Python and Artificial intelligence 
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darsh-chokhani-46771b2b2) 
 
-# 💻 Tech Stack:
+# Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=C29-bugologist&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
